@@ -1,0 +1,26 @@
+{
+  "name": "gulp-verboten",
+  "version": "0.0.1",
+  "description": "A Gulp.js plugin to lint for forbidden words and phrases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellscape/gulp-verboten.git"
+  },
+  "keywords": [
+    "gulp",
+    "lint",
+    "search",
+    "find",
+    "report"
+  ],
+  "author": "Andrew Powell <andrew@shellscape.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shellscape/gulp-verboten/issues"
+  },
+  "homepage": "https://github.com/shellscape/gulp-verboten#readme"
+}
